@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "ホームワークが終わらない",
+  "base_artist": "馬渡松子",
+  "createdAt": "2025-12-01T17:16:49.048881Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ホームワークが終わらない",
+      "artist": "緒方恵美",
+      "has_synced": false,
+      "path": "select/01_ホームワークが終わらない_緒方恵美.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ホームワークが終わらない",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/02_ホームワークが終わらない_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "02 - Matsuko Mawatari - ホームワークが終わらない",
+      "artist": "Matsuko Mawatari",
+      "has_synced": true,
+      "path": "select/03_02_-_Matsuko_Mawatari_-_ホームワークが終わらない_Matsuko_Mawatari.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ホームワークが終わらない (主題歌カバーコレクション)",
+      "artist": "緒方恵美",
+      "has_synced": false,
+      "path": "select/04_ホームワークが終わらない_(主題歌カバーコレクション)_緒方恵美.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ホームワークが終わらない",
+      "artist": "馬渡 松子",
+      "has_synced": false,
+      "path": "select/pl_01_ホームワークが終わらない_馬渡_松子.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ホームワークが終わらない",
+      "artist": "馬渡 松子",
+      "has_synced": false,
+      "path": "select/pl_02_ホームワークが終わらない_馬渡_松子.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ホームワークが終わらない",
+      "artist": "馬渡 松子",
+      "has_synced": false,
+      "path": "select/pl_03_ホームワークが終わらない_馬渡_松子.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ホームワークが終わらない",
+      "artist": "馬渡 松子",
+      "has_synced": false,
+      "path": "select/pl_04_ホームワークが終わらない_馬渡_松子.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "ホームワークが終わらない",
+      "artist": "馬渡 松子",
+      "has_synced": false,
+      "path": "select/pl_05_ホームワークが終わらない_馬渡_松子.txt"
+    }
+  ]
+}
